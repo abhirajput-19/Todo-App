@@ -1,7 +1,9 @@
-#Title
+# Title
+
 ToDo App by Abhi
 
-#features
+# features
+
 add new tasks
 mark the tasks done
 delete your tasks
